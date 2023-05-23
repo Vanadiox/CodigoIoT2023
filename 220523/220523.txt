@@ -1,0 +1,4 @@
+Hoy vimos algo de docker.
+Tenemos este comando para ver los contenedores instalado
+
+sudo docker container ls -a
